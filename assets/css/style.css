@@ -1,0 +1,21 @@
+body {
+    width:100%;
+    background-image: url(../images/Bakuman.jpg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color:black;
+    font-size:20px;
+    text-shadow: 1px 1px white;
+}
+
+#new-entry{
+    background: white;
+    opacity: .9;
+}
+
+.ratingImg {
+    background: rgb(139, 139, 177);
+    width: 90px;
+}
